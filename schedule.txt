@@ -1,0 +1,15 @@
+schedule
+
+core java : 7 aug  remaining: https://www.youtube.com/watch?v=jHfqXGmuTMA&list=PLlhM4lkb2sEh8AARH5oEivYOrMgaVsPFb&index=10
+dbt: 10 aug
+dsa: 12 aug
+wjp: 15 aug
+dotnet: 18 aug
+
+
+5 to 7 => concepts core java - exception handling,string
+8 to 11 => Aptitude => compound interest, train-time,work
+12 to 2 => coding
+3 to 5 => concepts dbt
+6 to 8 => dbt
+9 to 11 => core java
